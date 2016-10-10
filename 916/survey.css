@@ -1,0 +1,42 @@
+
+
+.tytext {
+  font-family: 'Lato';
+  font-size: 16px;
+  border: 4px dashed black;
+  border-radius: 4px;
+  padding: 50px 30px 30px 30px;
+  margin: 60px;
+  max-width: 90%;
+}
+
+
+.thankyou {
+  text-align: center;
+}
+
+.email_Area {
+  padding: 20px 20px 20px 20px;
+}
+
+#submit {
+  border: 2px solid black;
+  color: #EC008C;
+  background-color: white;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+#submit:hover {
+  font-weight: bolder;
+  background-color: pink;
+}
+
+.surv_link {
+  color: #EC008C;
+}
+
+.surv_link:hover {
+  font-weight: bolder;
+  color: grey;
+}

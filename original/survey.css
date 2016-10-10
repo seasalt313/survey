@@ -1,0 +1,66 @@
+.vee24 { width: 1050px; height: 534px; margin: 0 auto 30px; position: relative; background: #0d004c url(//static.heels.com/img/survey.springclean.BG2.jpg) no-repeat left top; }
+/*.vee24 .left {position:relative; padding:40px 10px 30px; width:400px; height: 450px; }*/
+.vee24 .top { position: absolute; top: 100px; left: 21px; }
+
+.vee24 .top p.intro { display: block; width: 336px; margin: 10px 0; font: normal 11px Verdana, Helvetica, Arial, sans-serif; color: #fff; line-height: 13px; text-align: left; }
+
+.vee24 .top form { width: 530px; text-align: left; }
+
+.vee24 .top input.text, .vee24 .top input.smalltext { border: none; font: normal 16px Verdana, Helvetica, Arial, sans-serif; line-height: 18px; padding: 3px; margin: 3px 0 0 }
+
+.vee24 .top input.text { width: 333px; }
+
+.vee24 .top input.smalltext { width: 142px; }
+
+.vee24 .top input.leftmargin { margin-left: 10px; }
+
+.vee24 .top input[type="text"]:focus { background-color: #cff; }
+
+.vee24 .top label { display: block; cursor: pointer; font: normal 12px Verdana, Helvetica, Arial, sans-serif; color: #fff; }
+
+.vee24 .top .button { width: 75px; text-align: center; margin: 10px 0 0 265px; }
+
+.vee24 .top .button button { cursor: pointer; width: 75px; height: 24px; border: 1px solid #000; -webkit- color: #fff; font: bold 12px Verdana, Helvetica, Arial, sans-serif; line-height: 24px; background-color: #8eba35; }
+
+.vee24 .top p.coupon { display: block; width: 336px; margin: 30px 0; font: normal 16px Verdana, Helvetica, Arial, sans-serif; color: #fff; line-height: 18px; text-align: center; }
+
+.vee24 .top p.coupon a:link, .vee24 .top p.coupon a:active { text-decoration: none; color: #fff; }
+
+.vee24 .top p.intro a:link, .vee24 .top p.intro a:active { text-decoration: none; color: #8eba35; }
+
+.vee24 .top p.coupon a:hover, .vee24 .top p.coupon a:visited, .vee24 .top p.coupon a:focus { text-decoration: underline; }
+
+.vee24 .top p.intro a:hover, .vee24 .top p.intro a:visited, .vee24 .top p.intro a:focus { text-decoration: underline; }
+/*    Sex and The City 2 landing page styles   */
+.satc2 { position: relative; width: 829px; margin: 0 0 20px; }
+
+.satc2 .top { position: relative; background: url(//static.heels.com/img/heels.satc2.header.jpg) no-repeat left top; width: 829px; height: 206px; margin-bottom: 7px; }
+
+.satc2 .middle { position: relative; width: 829px; height: 147px; margin-bottom: 7px; }
+
+.satc2 #business { background: url(//static1.heels.com/img/heels.satc2.business.jpg) no-repeat left top; }
+.satc2 #trendsetting { background: url(//static2.heels.com/img/heels.satc2.trendsetting.jpg) no-repeat left top; }
+.satc2 #girly { background: url(//static3.heels.com/img/heels.satc2.girly.jpg) no-repeat left top; }
+.satc2 #sexy { background: url(//static.heels.com/img/heels.satc2.sexy.jpg) no-repeat left top; }
+.satc2 #business p,
+.satc2 #trendsetting p,
+.satc2 #girly p,
+.satc2 #sexy p { position: absolute; width: 353px; height: 72px; top: 65px; right: 160px; text-align: left; color: #b5c2cc; font: normal 13px/14px Verdana, Geneva, Tahoma, sans-serif; }
+
+.satc2 .middle a.thatsme:link,
+.satc2 .middle a.thatsme:visited { position: absolute; top: 83px; right: 23px; display: block; width: 124px; height: 35px; background: url(//static1.heels.com/img/heels.satc2.sprite.jpg) no-repeat 0 0; text-decoration: none; text-indent: -3000px; border: 0; outline: 0; }
+
+.satc2 .middle a.thatsme:hover,
+.satc2 .middle a.thatsme:focus { background-position: 0 -35px; }
+
+.satc2 .middle a.thatsme:active { background-position: 0 -70px; }
+
+.satc2 .bottom { position: relative; width: 829px; height: 75px; }
+
+.satc2 .bottom a:link,
+.satc2 .bottom a:visited { position: relative; display: block; width: 829px; height: 75px; background: url(//static2.heels.com/img/heels.satc2.footer.jpg) no-repeat 0 0; text-decoration: none; text-indent: -3000px; border: 0; outline: 0; }
+
+.satc2 .bottom a:hover,
+.satc2 .bottom a:focus { background-position: 0 -75px; }
+
+.satc2 .bottom a:active { background-position: 0 -150px; }
